@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    font-family: "Montserrat";
+    background-color: #e9ecef;
+}
+
+a {
+    margin: auto;
+    text-decoration: none;
+}
+
+.login-box {
+    padding: 50px 400px;
+    text-align: center;
+
+}
+
+.login1-logo {
+    text-align: center;
+    padding: 10px;
+}
+
+.card {
+    text-align: center;
+    padding-bottom: 10px;
+
+}
